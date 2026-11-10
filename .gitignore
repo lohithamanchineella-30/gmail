@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor files
+.idea/
+.vscode/
+
+# Local database
+db.sqlite3
+
+# Gmail API credentials and tokens (DO NOT COMMIT)
+credentials.json
+token.json
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
